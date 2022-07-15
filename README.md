@@ -9,4 +9,4 @@ A lightweight application to predict the risk stratification of depressive mood 
 5. To any specific user, the application could analyze the main factor (question) causing the high risk score.
 6. Improve the UI/UX inferface.
 7. Improve LGBM model performance, precision and recall.
-8. 
+8. Investigate the effect of "age" variable on the model outcome. The designment of BRFSS questionnaire about "Depression" question may induce some bias because of responser's age.
